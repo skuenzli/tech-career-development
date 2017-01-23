@@ -22,17 +22,16 @@ Gain the knowledge necessary to build services that scale perform to customer an
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis
 
-## Papers ##
+## Essays & Technical Papers ##
 
+* [Personal Observations on Reliability of Shuttle](https://history.nasa.gov/rogersrep/v2appf.htm) - Feynman
+* [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - Allspaw
 * [Worse is Better](https://www.dreamsongs.com/WorseIsBetter.html) - Gabriel
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz
 * [A Relational Model of Data forLarge Shared Data Banks ](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf) - Codd
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
 * [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - DeCandia, et al
 * [Simple Testing Can Prevent Most Critical Failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) - Yuan, et al
-
-## Blog Posts ##
-
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kreps
 * [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
 

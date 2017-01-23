@@ -22,7 +22,6 @@ Gain the knowledge necessary to build services that scale perform to customer an
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis
 
-
 ## Papers ##
 
 * [Worse is Better](https://www.dreamsongs.com/WorseIsBetter.html) - Gabriel
@@ -30,6 +29,7 @@ Gain the knowledge necessary to build services that scale perform to customer an
 * [A Relational Model of Data forLarge Shared Data Banks ](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf) - Codd
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
 * [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - DeCandia, et al
+* [Simple Testing Can Prevent Most Critical Failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) - Yuan, et al
 
 ## Blog Posts ##
 

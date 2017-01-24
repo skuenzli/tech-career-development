@@ -4,12 +4,14 @@ Gain the knowledge necessary to build services that scale and perform to custome
 
 # Experience #
 
+* Design a service, document design, review with team, incorporate feedback
 * Build services in at least two programming languages
 * Build or significantly enhance a system that scales horizontally by routing work via a messaging system
 * Build a service that offers or uses a non-JSON/XML representation of data on the wire (excl database), e.g. protobuf, thrift, RMI
 * Deploy an application (yourself) to a
     * Platform as a Service
     * Infrastructure as a Service
+* Implement a load-test for a service you built and prove it handles > 1000 req / sec with acceptable tail latency (p95, p99, max)
 * Participate in on-call rotation of a business critical product/service for at least 21 days + nights total
 
 

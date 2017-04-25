@@ -1,19 +1,15 @@
-# Objective #
-
-Gain the knowledge necessary to build services that scale and perform to customer and business expectations.
+# Senior Application Platform Engineer #
 
 # Experience #
 
-* Design a service, document design, review with team, incorporate feedback
-* Build services in at least two programming languages
-* Build or significantly enhance a system that scales horizontally by routing work via a messaging system
-* Build a service that offers or uses a non-JSON/XML representation of data on the wire (excl database), e.g. protobuf, thrift, RMI
-* Deploy an application (yourself) to a
-    * Platform as a Service
-    * Infrastructure as a Service
-* Implement a load-test for a service you built and prove it handles > 1000 req / sec with acceptable tail latency (p95, p99, max)
-* Participate in on-call rotation of a business critical product/service for at least 21 days + nights total
+8 of [Application Platform Engineer's experiences](application-platform-engineer.md)
 
+* Design and implement a host update / replacement strategy that supports a high availability application deployment strategy
+* Secure host according to Principle of Least Privilege and protect host from application-level attacks
+* Tune the performance of an application platform host's:
+	* filesystem 
+	* networking stack
+	* name resolution
 
 # Curricula #
 
@@ -35,7 +31,6 @@ Gain the knowledge necessary to build services that scale and perform to custome
 * [Simple Testing Can Prevent Most Critical Failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) - Yuan, et al
 * [Worse is Better](https://www.dreamsongs.com/WorseIsBetter.html) - Gabriel
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz
-* [A Relational Model of Data for Large Shared Data Banks ](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf) - Codd
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kreps
 * [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
@@ -44,7 +39,6 @@ Gain the knowledge necessary to build services that scale and perform to custome
 ## Books ##
 
 * [A Manager's Path](https://www.amazon.com/dp/B06XP3GJ7F/) - Fournier
-* [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) - Brooks
 * [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/) - Nygard
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) - Humble & Farley
 * [Web Operations: Keeping the Data on Time](https://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440/) - Allspaw & Robbins

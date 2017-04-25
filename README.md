@@ -27,6 +27,8 @@ The education paths constructed from a mix of self-paced instruction and experie
 Education Paths for the following roles are currently in a `DRAFT`, though useful state.
 
 * [Application Platform Engineer](application-platform-engineer.md)
+* [Senior Application Platform Engineer](senior-application-platform-engineer.md)
+* [Software Engineer](software-engineer.md)
 * [Senior Software Engineer](senior-software-engineer.md)
 
 

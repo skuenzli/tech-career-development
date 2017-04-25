@@ -30,4 +30,8 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 
 * [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123) - Norman
 * [The Inmates are Running the Asylum](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140) - Cooper
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Martin
+* [Debugging Rules!](https://www.amazon.com/exec/obidos/ASIN/0814474578/debuggingrule-20) - Agans
 * Selections from [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) (McConnell)
+    * Part I - Laying the Foundation
+    * Part V - Code Improvements, particularly Ch 20 The Software Quality Landscape

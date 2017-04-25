@@ -65,6 +65,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 
 ## Books ##
 
+* [Debugging Rules!](https://www.amazon.com/exec/obidos/ASIN/0814474578/debuggingrule-20) - Agans
 * [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/) - Nygard
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) - Humble & Farley
 * [Web Operations: Keeping the Data on Time](https://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440/) - Allspaw & Robbins

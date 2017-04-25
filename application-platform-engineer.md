@@ -52,14 +52,14 @@ As an Application Platform Engineer you will be part of a cross-functional team 
 * [Architectural Patterns of Resilient Distributed Systems](https://www.youtube.com/watch?v=ohvPnJYUW1E) - Sombra
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis
-* [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
-* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kreps
-* [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
 
 ## Essays & Technical Papers ##
 
 * [Personal Observations on Reliability of Shuttle](https://history.nasa.gov/rogersrep/v2appf.htm) - Feynman
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz
+* [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kreps
+* [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
 
 ## Books ##
 

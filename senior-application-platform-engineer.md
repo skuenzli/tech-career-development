@@ -1,15 +1,21 @@
 # Senior Application Platform Engineer #
 
+As an Senior Application Platform Engineer you will be part of a cross-functional team that designs, builds, and operates application delivery pipelines and the application platforms they run on using scalable software development techniques.
+
+The ideal candidate will thrive on the creation of processes and tools that make engineering teams more efficient and speed delivery of value to customers with high reliability.
+
 # Experience #
 
 8 of [Application Platform Engineer's experiences](application-platform-engineer.md)
 
 * Design and implement a host update / replacement strategy that supports a high availability application deployment strategy
 * Secure host according to Principle of Least Privilege and protect host from application-level attacks
+* Design and implement a mechanism for transmitting secret material to applications securely
 * Tune the performance of an application platform host's:
 	* filesystem 
 	* networking stack
 	* name resolution
+* Plan platform capacity for the next year 
 
 # Curricula #
 

@@ -20,10 +20,10 @@ Gain the knowledge necessary to build services that scale and perform to custome
 ## Training & Certification ##
 
 * [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - Udacity (Krueger)
+* [System Design Primer](https://github.com/donnemartin/system-design-primer) - Martin
 
 ## Talks ##
 
-* [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer
 * [Architectural Patterns of Resilient Distributed Systems](https://www.youtube.com/watch?v=ohvPnJYUW1E) - Sombra
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis

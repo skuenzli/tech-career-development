@@ -25,6 +25,8 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 ## Papers ##
 
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) - Moseley & Marks
+* [Introduction to HTTP (by HttpWatch)](https://www.httpwatch.com/httpgallery/introduction/)
+* [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding
 
 ## Books ##
 

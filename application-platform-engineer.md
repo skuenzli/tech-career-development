@@ -70,3 +70,4 @@ The ideal candidate will thrive on the creation of processes and tools that make
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) - Humble & Farley
 * [Web Operations: Keeping the Data on Time](https://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440/) - Allspaw & Robbins
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/) - Takada, et al
+* [Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)

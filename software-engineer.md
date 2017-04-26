@@ -40,3 +40,4 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 * Selections from [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) (McConnell)
     * Part I - Laying the Foundation
     * Part V - Code Improvements, particularly Ch 20 The Software Quality Landscape
+* [Design Patterns Explained Simply](https://sourcemaking.com/design-patterns-ebook)

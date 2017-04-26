@@ -22,6 +22,9 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 
 ## Talks ##
 
+* [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer
+
+
 ## Papers ##
 
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) - Moseley & Marks

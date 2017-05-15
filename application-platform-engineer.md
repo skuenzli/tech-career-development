@@ -58,6 +58,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 ## Essays & Technical Papers ##
 
 * [Personal Observations on Reliability of Shuttle](https://history.nasa.gov/rogersrep/v2appf.htm) - Feynman
+* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - Cook
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kreps

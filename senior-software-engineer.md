@@ -32,6 +32,7 @@ Gain the knowledge necessary to build services that scale and perform to custome
 
 * [Personal Observations on Reliability of Shuttle](https://history.nasa.gov/rogersrep/v2appf.htm) - Feynman
 * [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - Allspaw
+* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - Cook
 * [Simple Testing Can Prevent Most Critical Failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) - Yuan, et al
 * [Worse is Better](https://www.dreamsongs.com/WorseIsBetter.html) - Gabriel
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz

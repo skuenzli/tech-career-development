@@ -42,6 +42,7 @@ Gain the knowledge necessary to build services that scale and perform to custome
 * [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
 * [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - DeCandia, et al
 * [The Tail at Scale](http://www.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf) - Dean & Barroso
+* [Enterprise Integration Using REST](https://martinfowler.com/articles/enterpriseREST.html) - Byars
 
 ## Books ##
 

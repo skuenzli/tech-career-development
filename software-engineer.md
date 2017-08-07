@@ -20,6 +20,8 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 
 ## Training & Certification ##
 
+* [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - Udacity
+
 ## Talks ##
 
 * [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer

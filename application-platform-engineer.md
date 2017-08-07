@@ -46,6 +46,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 
 ## Training & Certification ##
 
+* [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - Udacity
 * [Training - AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/#/curriculum) - Udemy (Kroonenburg)
 
 ## Talks ##

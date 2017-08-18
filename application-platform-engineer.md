@@ -47,6 +47,8 @@ The ideal candidate will thrive on the creation of processes and tools that make
 ## Training & Certification ##
 
 * [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - Udacity
+* [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - Udacity (Krueger)
+* [Training - AWS Security Fundamentals](https://aws.amazon.com/training/course-descriptions/security-fundamentals/) - AWS
 * [Training - AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/#/curriculum) - Udemy (Kroonenburg)
 
 ## Talks ##

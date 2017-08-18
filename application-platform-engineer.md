@@ -34,6 +34,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 	* cdn, api gateway, service, database
 	* web server, service, database
 * Participate as author and reviewer for changes to System Configuration management and IaaS code
+* Build and test 3 or more software or infrastructure projects continuously
 * Implement deployment automation to deploy at least 3 different applications to a non-prod and prod environment automatically and reliably.
 * Integrate _host_ logs with centralized logging and alerting systems
 * Integrate _application_ logs with centralized logging and alerting systems

@@ -27,12 +27,13 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 * [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer
 
 
-## Papers ##
+## Essays & Technical Papers ##
 
 * [ACM Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code)
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) - Moseley & Marks
 * [Introduction to HTTP (by HttpWatch)](https://www.httpwatch.com/httpgallery/introduction/)
 * [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding
+* [Comparing Version Control Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## Books ##
 

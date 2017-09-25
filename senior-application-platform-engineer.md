@@ -26,6 +26,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 ## Talks ##
 
 * [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer
+* [Everything Will Flow - Queues, Stability, and Backpressure](https://www.youtube.com/watch?v=1bNOO3xxMc0) - Tellman
 * [Architectural Patterns of Resilient Distributed Systems](https://www.youtube.com/watch?v=ohvPnJYUW1E) - Sombra
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis

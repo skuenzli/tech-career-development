@@ -28,18 +28,19 @@ The ideal candidate will thrive on the creation of processes and tools that make
 
 (at least 5)
 
-* Configure an host (or machine image) suitable for operating an application or container platform completely via automation
-* Write functional tests to verify hosts are configured correctly
+* Configure a host (or machine image) suitable for operating an application or container platform completely via automation
+* Write functional tests to verify hosts are configured correctly using, e.g. InSpec
 * Deploy infrastructure for a multi-tier system using an IaaS code tool, terraform, CloudFormation, etc; e.g.
 	* cdn, api gateway, service, database
-	* web server, service, database
+	* load balancer, web server, service, database
 * Participate as author and reviewer for changes to System Configuration management and IaaS code
 * Build and test 3 or more software or infrastructure projects continuously
 * Implement deployment automation to deploy at least 3 different applications to a non-prod and prod environment automatically and reliably.
-* Integrate _host_ logs with centralized logging and alerting systems
-* Integrate _application_ logs with centralized logging and alerting systems
-* Integrate _host_ telemetry with monitoring and alerting systems
-* Integrate _application_ telemetry with monitoring and alerting systems
+* Integration to support operations
+  * Integrate _host_ logs with centralized logging and alerting systems
+  * Integrate _application_ logs with centralized logging and alerting systems
+  * Integrate _host_ telemetry with monitoring and alerting systems
+  * Integrate _application_ telemetry with monitoring and alerting systems
 * Set-up alerting systems for Technical KPIs of hosts and app deployment pipeline(s)
 * Participate in on-call rotation of an application platform for at least 21 days + nights total
 

@@ -68,7 +68,6 @@ The ideal candidate will thrive on the creation of processes and tools that make
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - Cook
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)- Hamilton
-* [Call Me Maybe - Jepsen Series on Partition Tolerance & Data Safety](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions) - Kingsbury
 * [The Tail at Scale](http://www.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf) - Dean & Barroso
 
 ## Books ##

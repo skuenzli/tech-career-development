@@ -61,6 +61,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 
 ## Essays & Technical Papers ##
 
+* [Comparing (Version Control) Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) - Atlassian
 * [Personal Observations on Reliability of Shuttle](https://history.nasa.gov/rogersrep/v2appf.htm) - Feynman
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - Cook
 * [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) - Rotem-Gal-Oz

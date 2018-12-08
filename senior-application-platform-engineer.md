@@ -30,6 +30,7 @@ The ideal candidate will thrive on the creation of processes and tools that make
 * [Architectural Patterns of Resilient Distributed Systems](https://www.youtube.com/watch?v=ohvPnJYUW1E) - Sombra
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI) - McCaffrey
 * [When 'Worst' is Best in (Distributed Systems)](https://www.youtube.com/watch?v=ZGIAypUUwoQ) - Bailis
+* [Close Loops & Opening Minds: How to Take Control of Systems, Big & Small](https://www.youtube.com/watch?v=O8xLxNje30M) - MacCárthaigh
 
 ## Essays & Technical Papers ##
 

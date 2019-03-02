@@ -38,7 +38,6 @@ Thanks to [Ashley McNamara](https://twitter.com/ashleymcnamara/status/1101215785
 
 * [The Smallest Distributed System](https://www.youtube.com/watch?v=ZFBvvUlqQ6w) - Meyer
 
-
 ## Essays & Technical Papers ##
 
 * [ACM Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code)
@@ -55,6 +54,6 @@ Thanks to [Ashley McNamara](https://twitter.com/ashleymcnamara/status/1101215785
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Martin
 * [Debugging Rules!](https://www.amazon.com/exec/obidos/ASIN/0814474578/debuggingrule-20) - Agans
 * Selections from [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) (McConnell)
-    * Part I - Laying the Foundation
-    * Part V - Code Improvements, particularly Ch 20 The Software Quality Landscape
+  * Part I - Laying the Foundation
+  * Part V - Code Improvements, particularly Ch 20 The Software Quality Landscape
 * [Design Patterns Explained Simply](https://sourcemaking.com/design-patterns-ebook)

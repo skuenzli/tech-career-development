@@ -22,6 +22,8 @@ If you're not sure what kind of web and console applications to create, consider
 
 One way to do this is to implement a [Trello](https://trello.com/) clone.  A nice thing about this approach is that there are many open source 'TODO' applications out there you can use to see how other people solve this problem and create good user interfaces.  The console application could interact with the list manager application via an http API.  It may be fun to specialize this list manager to track players' progress in a competition (leaderboard), items with pictures for a charity auction, or a workout tracker.
 
+If you will build your first app in a work setting, consider building a tool that will make your own (team's) work more efficient.  This could mean taking a process that is currently handled in a spreadsheet or via email and implement it in a web application instead.  An example of this might be importing raw test results, analyzing them, and generating reports.
+
 At the end of this experience, you should be comfortable discussing UI design, 'master-detail views', web services, data sanitization and persistence, and other concpets that make the professional tech world go round.
 
 Thanks to [Ashley McNamara](https://twitter.com/ashleymcnamara/status/1101215785572134912) and [Lukas Ruebbelke](https://github.com/simpulton) for inspiring this guidance.

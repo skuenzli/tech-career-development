@@ -16,6 +16,16 @@ Gain the knowledge necessary to build software that works in a reasonable amount
 * Create a portfolio of classic 'interview' problems and publish on GitHub 
 * Contribute to a larger project: author a change on a branch, issue PR, work with author to merge
 
+## Choosing an application to build ##
+
+If you're not sure what kind of web and console applications to create, consider starting with something that manages lists of items and allows you to show and edit details of those items.  The web application should store the items in a database.
+
+One way to do this is to implement a [Trello](https://trello.com/) clone.  A nice thing about this approach is that there are many open source 'TODO' applications out there you can use to see how other people solve this problem and create good user interfaces.  The console application could interact with the list manager application via an http API.  It may be fun to specialize this list manager to track players' progress in a competition (leaderboard), items with pictures for a charity auction, or a workout tracker.
+
+At the end of this experience, you should be comfortable discussing UI design, 'master-detail views', web services, data sanitization and persistence, and other concpets that make the professional tech world go round.
+
+Thanks to [Ashley McNamara](https://twitter.com/ashleymcnamara/status/1101215785572134912) and [Lukas Ruebbelke](https://github.com/simpulton) for inspiring this guidance.
+
 # Curricula #
 
 ## Training & Certification ##
